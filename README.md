@@ -46,7 +46,7 @@ Aplicación web con autenticación de usuarios y sistema CRUD completo.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikushira" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikushira&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
