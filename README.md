@@ -53,6 +53,13 @@ Aplicación web con autenticación de usuarios y sistema CRUD completo.
 
 ---
 
+### 🚀 🔹 Telegram Automation Tool  
+Sistema modular de automatización con manejo de datos, múltiples cuentas y arquitectura escalable.
+
+👉 https://github.com/ikushira/telegram-automation-tool
+
+---
+
 ## 📊 Estadísticas
 
 <p align="center">
