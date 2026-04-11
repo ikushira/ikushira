@@ -60,6 +60,13 @@ Sistema modular de automatización con manejo de datos, múltiples cuentas y arq
 
 ---
 
+## 👨‍💻 Otros Proyectos
+
+- 🛒 Mundo Calzado (E-commerce completo)
+  https://ikushira.github.io/nueva-version-calzado-pag-completa-main/
+
+  ---
+  
 ## 📊 Estadísticas
 
 <p align="center">
