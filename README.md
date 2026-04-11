@@ -1,72 +1,98 @@
 <h1 align="center">👨‍💻 Luis Aldana | Ikushira Dev</h1>
 
 <p align="center">
-Desarrollador Web Junior | JavaScript | Firebase 🚀
+Desarrollador Web enfocado en construir soluciones reales y funcionales 🚀
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Desarrollador web junior enfocado en la creación de aplicaciones funcionales y productos reales.  
+Soy desarrollador web enfocado en la creación de aplicaciones completas con lógica real, integración de servicios y enfoque en experiencia de usuario.
 
-Tengo experiencia construyendo soluciones completas con autenticación de usuarios, bases de datos en tiempo real y lógica CRUD.  
+He trabajado en proyectos que incluyen:
+- Sistemas de autenticación
+- E-commerce funcional con pagos
+- Automatización de procesos
+- Gestión de datos con operaciones CRUD en tiempo real
 
-Actualmente estoy en búsqueda de una oportunidad laboral donde pueda aportar valor y seguir creciendo como desarrollador.
-
----
-
-## 💻 Tecnologías
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Firebase (Auth + Firestore)  
-- Git & GitHub  
+Actualmente estoy en búsqueda de una oportunidad donde pueda aportar valor y seguir creciendo como desarrollador.
 
 ---
 
 ## 🔥 Proyectos Destacados
 
+### 🛒 Mundo Calzado — E-commerce Completo
+
+Plataforma fullstack con flujo de compra real, autenticación y pagos integrados.
+
+* Carrito persistente (localStorage)
+* Sistema de login y usuarios
+* Checkout con geolocalización
+* Integración de pagos (Wompi)
+* Generación de facturas + WhatsApp
+* Panel administrativo
+
+🌐 Demo:
+https://ikushira.github.io/nueva-version-calzado-pag-completa-main/
+
+🔗 Código:
+https://github.com/ikushira/nueva-version-calzado-pag-completa-main
+
+---
+
+### 🤖 Telegram Automation Tool
+
+Sistema modular de automatización con múltiples cuentas y arquitectura escalable.
+
+* CLI interactivo
+* Scraping de datos
+* Base de datos SQLite
+* Logging estructurado
+* Sistema desacoplado y extensible
+
+🔗 Código:
+https://github.com/ikushira/telegram-automation-tool
+
+---
+
 ### 🌐 Interneon VPN
-Plataforma web orientada a servicios de VPN con enfoque en privacidad, seguridad y experiencia de usuario.
 
-- Diseño moderno y enfoque en producto real
-- Implementación web funcional
-- Proyecto en producción
+Plataforma web orientada a servicios de privacidad y seguridad.
 
-🔗 Sitio web: https://www.interneonvpn.com  
-🔒 Código privado por motivos de seguridad
+* Enfoque en producto real
+* Diseño moderno
+* Proyecto en producción
 
----
+🔗 Sitio web:
+https://www.interneonvpn.com
 
-### 📋 App de Tareas con Firebase
-Aplicación web con autenticación de usuarios y sistema CRUD completo.
-
-- Registro e inicio de sesión  
-- Gestión de tareas por usuario  
-- Datos en tiempo real con Firestore  
-- Seguridad mediante UID  
-
-🔗 Demo: https://ikushira.github.io/portafolio-firebase  
-🔗 Código: https://github.com/ikushira/portafolio-firebase  
+🔒 Código privado
 
 ---
 
-### 🚀 🔹 Telegram Automation Tool  
-Sistema modular de automatización con manejo de datos, múltiples cuentas y arquitectura escalable.
+## 💻 Tecnologías
 
-👉 https://github.com/ikushira/telegram-automation-tool
+**Frontend**
+
+* HTML5, CSS3, JavaScript (ES6+)
+
+**Backend**
+
+* Node.js, Express
+
+**Bases de datos**
+
+* Firebase (Auth + Firestore)
+* SQLite
+
+**Herramientas**
+
+* Git & GitHub
+* Integración de APIs (Wompi, servicios externos)
 
 ---
 
-## 👨‍💻 Otros Proyectos
-
-- 🛒 Mundo Calzado (E-commerce completo)
-  https://ikushira.github.io/nueva-version-calzado-pag-completa-main/
-
-  ---
-  
 ## 📊 Estadísticas
 
 <p align="center">
@@ -77,11 +103,11 @@ Sistema modular de automatización con manejo de datos, múltiples cuentas y arq
 
 ## 📫 Contacto
 
-- 📧 Email: luisjaldana@gmail.com  
-- 💻 GitHub: https://github.com/ikushira  
+* 📧 Email: [luisjaldana@gmail.com](mailto:luisjaldana@gmail.com)
+* 💻 GitHub: https://github.com/ikushira
 
 ---
 
 ## 🎯 Objetivo
 
-Formar parte de un equipo de desarrollo donde pueda aplicar mis conocimientos en proyectos reales, adquirir experiencia profesional y contribuir al desarrollo de soluciones tecnológicas.
+Formar parte de un equipo de desarrollo donde pueda trabajar en proyectos reales, mejorar mis habilidades técnicas y aportar soluciones funcionales y bien estructuradas.
